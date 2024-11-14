@@ -14,7 +14,7 @@ body {
 
 /* Header styling */
 header {
-    background-color: #5a12a7; /* Bright orange */
+    background-color: #01095f; /* Same as header */
     padding: 20px;
     text-align: center;
     color: white;
@@ -43,7 +43,7 @@ main {
 }
 
 h2 {
-    color: #7308b0; /* Bright red color for section headings */
+    color: rgb(23, 35, 159); /* Bright red color for section headings */
     margin-bottom: 10px; /* Space below headings */
 }
 
@@ -69,7 +69,7 @@ a:hover {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #33015f; /* Same as header */
+    background-color: #01095f; /* Same as header */
     color: white;
     position: relative;
     bottom: 0;
